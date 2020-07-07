@@ -1,0 +1,3 @@
+[submodule "React-native-navigation"]
+	path = React-native-navigation
+	url = https://github.com/jyotir1994/React-native-navigation.git
